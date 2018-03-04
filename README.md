@@ -3,7 +3,7 @@
 
 
 
-# AuxoLabs Birds Classify :   *Using Transfer Learning on InceptionV3*
+# Birds Classify :   *Using Transfer Learning on InceptionV3*
 Download dataset from [here](http://www.vision.caltech.edu/visipedia/CUB-200.html)
 #### Dataset description
 Caltech-UCSD Birds 200 (CUB-200) is an image dataset with photos of 200 bird species (mostly North American). 
